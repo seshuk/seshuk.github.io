@@ -646,6 +646,10 @@ table tr td :last-child {
   float: left; 
 }
 
+.categorie-tag a{
+  color: #111;
+}
+
 .categorie-tag {
   background: #ddd;
   border-radius: 10px;
