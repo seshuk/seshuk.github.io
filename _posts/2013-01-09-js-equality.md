@@ -6,8 +6,8 @@ date: 2013-01-09 23:30:00 -0600
 published: true
 permalink: /2013/01/09/js-equality-operator/
 disclaimer: true
+categories: ['Programming']
 tags:
- - programming
  - javascript
 ---
 
