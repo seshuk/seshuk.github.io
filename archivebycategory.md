@@ -6,16 +6,16 @@ sitemap: false
 ---
     
 <div>
- <ul class="categories">
+ <ul class="categorie-tags">
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
     
-    <li class="tags">
-     <span class="site-tag">
+    <li class="categorie-tag">
+     
         <a href="#{{ category | first | slugify }}">
                 {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
         </a>
-    </span>
+    
     </li>
     {% endfor %}
  </ul>
