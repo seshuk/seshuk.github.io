@@ -49,5 +49,4 @@ null == undefined   // true
 ```
 >The lack of transitivity is alarming. My advice is to never use the evil twins. Instead, always use ===and !==. All of the comparisons just shown produce false with the === operator.
 
-
-**Watch out for these differences while implementing JavaScript. **
+#####*Watch out for these differences while implementing JavaScript.*
