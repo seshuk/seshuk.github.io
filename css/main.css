@@ -686,7 +686,7 @@ table tr td :last-child {
  right: 55px;
  right: -150px; 
  z-index: 50;
- background-color: #eee;
+ background: transparent;
 }
 
 .ad-item img{
