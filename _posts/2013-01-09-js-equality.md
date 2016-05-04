@@ -8,7 +8,7 @@ permalink: /2013/01/09/js-equality-operator/
 disclaimer: true
 categories: ['Programming']
 tags:
- - javascript
+ - JavaScript
 ---
 
 There are four operators supported by JavaScript that one can use to check conditions for equality.  == and != as with most of the high level languages. But they work differently.

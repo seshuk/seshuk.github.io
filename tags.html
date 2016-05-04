@@ -3,9 +3,11 @@ layout: page
 permalink: /tags/
 ---
 
+<h2>Blog by tags </h2>
+<br>
 <ul class="tag-cloud">
 {% for tag in site.tags %}
-  <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
+  <li class="categorie-tag">
     <a href="#{{ tag | first | slugize }}">
       {{ tag | first }}
     </a>
@@ -19,11 +21,18 @@ permalink: /tags/
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <h3 id="#{{ tag_name | slugize }}">{{ tag_name }}</h3>
     <a name="{{ tag_name | slugize }}"></a>
+    <hr size=2>
+    <table class="fixed-table-container">
+     <tbody>
     {% for post in site.tags[tag_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
+    <tr class="tableArchive" style="background: transparent">
+      <td style="width: 165px"><p>{{ post.date | date: "%B %-d, %Y" }}</p></td>
+      <td><h5><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h5></td>
+      <td></td>
+    </tr>  
     {% endfor %}
+      </tbody>
+    </table>
   </div>
 {% endfor %}
 </div>

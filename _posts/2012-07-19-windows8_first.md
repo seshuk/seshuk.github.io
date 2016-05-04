@@ -3,6 +3,8 @@ layout: post
 subtitle: "Thoughts on Windows 8"
 title: "Windows 8 Preview: First Impressions"
 categories: ['Windows']
+tags:
+ - Windows
 ---
 
 ## Change is inevitable

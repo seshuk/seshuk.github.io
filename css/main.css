@@ -533,7 +533,7 @@ table {
   padding: 0;
 }
 table tr {
-  border-top: 1px solid #cccccc;
+  /*border-top: 1px solid #cccccc;*/
   background-color: #ffffff;
   margin: 0;
   padding: 0;
@@ -575,7 +575,7 @@ table tr td :last-child {
   }
 }
 
-// for tag cloud and archives
+/* for tag cloud and archives*/
 .tag-cloud {
   list-style: none;
   padding: 0;
@@ -591,13 +591,14 @@ table tr td :last-child {
 }
 .archive-group {
   margin: 5px;
-  border-top: 1px solid #ddd;
+  /*border-top: 1px solid #ddd;*/
 }
+
 .archive-item {
   margin-left: 5px;
 }
 .post-tags {
-  text-align: right;
+  text-align: left;
 }
 
 #searchBar {
@@ -686,7 +687,8 @@ table tr td :last-child {
  right: 55px;
  right: -150px; 
  z-index: 50;
- background: transparent;
+ /*background: transparent;*/
+ background-color: lightgray;
 }
 
 .ad-item img{
@@ -727,3 +729,26 @@ table tr td :last-child {
     overflow: auto;
 }
 
+.tableArchive {
+    border-bottom:0px !important;
+}
+.tableArchive th, .tableArchive td, .tableArchive tr {
+    border: none !important;
+    border-top: none !important;
+    vertical-align: baseline;
+}
+.fixed-table-container {
+    border:0px !important;
+}
+
+.tableArchive p {
+  font-size: 14px;
+}
+
+.archive-group hr{
+  margin-top: 10px;
+  /*border-top: 1px solid #989696;*/
+}
+.categorie-tag a:link, .archive-group a:link{
+  text-decoration: none;
+}
