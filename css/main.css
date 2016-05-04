@@ -674,3 +674,26 @@ table tr td :last-child {
 .categorie-tag:hover::after {
    border-left-color:#55acee;/* crimson;*/ 
 }
+
+.ad-item{
+ float: left;
+ margin-left: 1em;
+}
+
+.ad-sponsoreditem{
+ position: absolute;
+ font-size: 80%;
+ right: 55px;
+ right: -150px; 
+ z-index: 50;
+ background-color: #eee;
+}
+
+.ad-item img{
+	margin: 0;
+}
+
+@media only screen and (max-width : 1000px) {
+
+    .ad-sponsoreditem { display: none; }
+}
