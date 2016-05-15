@@ -25,6 +25,7 @@ description: "Seshu's views is a personal blog where I write my thoughts, learni
 navbar-links:
   About Me: "https://about.me/seshukoorella"
   Resume: "resume"
+  Flickr: "Flickr"
   #nav-search: "Search"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
