@@ -10,9 +10,9 @@ tags:
  - PowerShell
 ---
 
-The default or easy way to manage Exchange Online for administrators would still be the Excahgne management protal. However there are situations where one might want to automate the process or execute scripts remotely. Following article explains how this can be done using PowerShell manually: https://technet.microsoft.com/library/jj984289(v=exchg.160).aspx
+The default or easy way to manage Exchange Online for administrators would still be the Exchange management portal. However, there are situations where one might want to automate the process or execute scripts remotely. Following article explains how this can be done using PowerShell manually: https://technet.microsoft.com/library/jj984289(v=exchg.160).aspx
 
-This can be achived via C# code using the classes in **System.Management.Automation** namespace. Especially the Runspace, PowerShell and PSCommand classes.
+This can be achieved via C# code using the classes in **System.Management.Automation** namespace. Especially the Runspace, PowerShell and PSCommand classes.
 
 **[Runspace:](https://msdn.microsoft.com/en-us/library/system.management.automation.runspaces.runspace(v=vs.85).aspx)**
  - Provides options to open connection pipeline to Remote powershell so that PS Commands could be executed.
