@@ -7,7 +7,7 @@ tags:
  - Personal
 ---
 
-Its the beginning of a new year. Time for planning, thinking through and putting together stuff that needs to be done so that I keep improving myself. I kind of do this year but I tend to loose track after few months. _This year however_, I want to try publishing the plan and take additional efforts so that it could drive me in completing what I planned at the beginning.
+Its the beginning of a new year. Time for planning, thinking through and putting together stuff that needs to be done so that I keep improving myself. I kind of do this every year, but I tend to loose track after few months. _This year however_, I want to try publishing the plan and take additional efforts so that it could drive me in completing what I planned at the beginning.
 
 ***Here goes the list:***
 
@@ -25,7 +25,7 @@ Stats from last year:
  
 
 **Craft:** 
-* _Write blogs posts regularly_ - At least *25 posts:* This has been something I started and stopped last two years. I want to break that and make blogging a habbit.
+* _Write blogs posts regularly_ - At least *25 posts:* This has been something I started and stopped last two years. I want to break that and make blogging a habit.
   - Blog on anything I learned from below activities or status/progress of activities mentioned in this post every quarter.
 
 * _Side projects:_
@@ -43,3 +43,6 @@ Read at least 4-5 books this year. I know this is small target, but reading is n
 * Tick off at least 1 item in personal bucket list
  - Post once done.
 
+_I'm excited to start this year than ever. Her we go...._
+
+# Happy New Year - 2018 #
