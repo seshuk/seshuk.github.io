@@ -10,15 +10,15 @@ tags:
 
 Its the beginning of a new year. Time for planning, thinking through and putting together stuff that needs to be done so that I keep improving myself. I kind of do this year but I tend to loose track after few months. _This year however_, I want to try publishing the plan and take additional efforts so that it could drive me in completing what I planned at the beginning.
 
-_###Here goes the list:###_
+_***Here goes the list:***_
 
-##Health:##
+**Health:**
 In general be more active.  
  - 10k or more steps 
  - 2018 KMs cycle/running.
  - Yoga atleast 2 times a week.
 
-##Craft:## 
+**Craft:** 
 * Write blogs posts regularly - At least 25 posts.
  - Post status/progress every quarter
 
@@ -27,12 +27,12 @@ In general be more active.
 
 * Complete at least 2 technical certifications
 
-##Reading:##
+**Reading:**
   - 2 Self help
   - 1 Personal finanace
   - 1 scifi/thriller
 
-##Personal:##
+**Personal:**
 * Tick off at least 1 item in personal bucket list
  - Post once done.
 
