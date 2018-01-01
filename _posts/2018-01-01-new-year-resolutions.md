@@ -3,6 +3,7 @@ layout: post
 title: "My new year resolutions - 2018"
 subtitle: "What I'm planning to do this year"
 categories: ['General']
+youtubeId: "CqTyOCSX"
 tags:
  - Personal
 ---
@@ -43,6 +44,10 @@ Read at least 4-5 books this year. I know this is small target, but reading is n
 * Tick off at least 1 item in personal bucket list
  - Post once done.
 
-_I'm excited to start this year than ever. Her we go...._
+_I'm excited to start this year than ever. Here we go...._
 
 # Happy New Year - 2018 #
+
+_P.S_: An interesting video on choosing to change life then just one year. I'd say lets start with this year and improve every year.
+
+{% include youtubePlayer.html id=page.youtubeId %}
