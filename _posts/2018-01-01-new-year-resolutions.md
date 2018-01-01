@@ -20,8 +20,8 @@ Stats from last year:
 ![2017_Activity_Rep.png]({{site.baseurl}}/img/2017_Activity_Rep.png)
 
  - *10k or more steps:* Track 10k steps every day of the year on an average.  Past years average was 9.7k per day.
- - *2018 KMs cycle/running:* This one could be tough. But will force me to ride more often. This target would be _almost 3 times_ from the past year.
- - *Yoga at least 2 times a week:* Make it at least 100 yoga sessions this year which is, 4 times more than last year. 
+ - *2018 KMs cycle/running:* This one could be tough. But will force me to ride more often. This target would be _almost 3x times_ from the past year.
+ - *Yoga at least 2 times a week:* Make it at least 100 yoga sessions this year which is, 4x times more than last year. 
 
  
 
@@ -44,7 +44,7 @@ Read at least 4-5 books this year. I know this is small target, but reading is n
 * Tick off at least 1 item in personal bucket list
  - Post once done.
 
-_I'm excited to start this year than ever. Here we go...._
+_I'm excited to start this year than ever....._
 
 # Happy New Year - 2018 #
 
