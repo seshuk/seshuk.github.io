@@ -26,10 +26,10 @@ Stats from last year:
 
 **Craft:** 
 * _Write blogs posts regularly_ - At least *25 posts:* This has been something I started and stopped last two years. I want to break that and make blogging a habbit.
- - Blog on anything I learned from below activities or status/progress of activities mentioned in this post every quarter.
+  - Blog on anything I learned from below activities or status/progress of activities mentioned in this post every quarter.
 
 * _Side projects:_
- - *At least 2* in Mobile/Azure/Machine Learning/AI/IoT. This should keep the learning on going.
+  - *At least 2* in Mobile/Azure/Machine Learning/AI/IoT. This should keep the learning on going.
 
 * Complete at least *2 technical certifications* to prove/validate learning.
 
