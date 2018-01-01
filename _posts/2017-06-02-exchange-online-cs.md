@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Executing PowerShell commands on Exchange Online (Office365) via C#"
-subtitle: "Useful for automating Exchange Online tasks."
+subtitle: "Useful for automating Exchange Online tasks"
 categories: ['Programming']
 tags:
  - Exchange Online
