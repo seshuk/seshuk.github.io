@@ -12,26 +12,26 @@ Its the beginning of a new year. Time for planning, thinking through and putting
 ***Here goes the list:***
 
 **Health:**
-In general be more active than past year. I started using Gyroscope(https://gyrosco.pe/) app from last quarter of 2017 to track most of my life activities. The same shall be used to track this year as well.  
+In general be more active than past year. I started using ***[Gyroscope app](https://gyrosco.pe/)*** from last quarter of 2017 to track most of my life activities. The same shall be used to track this year as well.  
 
 Stats from last year:
 
 ![2017_Activity_Rep.png]({{site.baseurl}}/img/2017_Activity_Rep.png)
 
- - 10k or more steps: Track 10k steps every day of the year on an average.  Past years average was 9.7k per day.
- - 2018 KMs cycle/running. This one could be tough. But will force me to ride more often. This target would be _almost 3 times_ from the past year.
- - Yoga at least 2 times a week. Make it at least 100 yoga sessions this year which is, 4 times more than last year. 
+ - *10k or more steps:* Track 10k steps every day of the year on an average.  Past years average was 9.7k per day.
+ - *2018 KMs cycle/running:* This one could be tough. But will force me to ride more often. This target would be _almost 3 times_ from the past year.
+ - *Yoga at least 2 times a week:* Make it at least 100 yoga sessions this year which is, 4 times more than last year. 
 
  
 
 **Craft:** 
-* Write blogs posts regularly - At least 25 posts. This has been something I started and stopped last two years. I want to break that and make blogging a habbit.
+* _Write blogs posts regularly_ - At least *25 posts:* This has been something I started and stopped last two years. I want to break that and make blogging a habbit.
  - Blog on anything I learned from below activities or status/progress of activities mentioned in this post every quarter.
 
-* Side projects
- - At least 2 in Mobile/Azure/Machine Learning/AI/IoT. This should keep the learning on going.
+* _Side projects:_
+ - *At least 2* in Mobile/Azure/Machine Learning/AI/IoT. This should keep the learning on going.
 
-* Complete at least 2 technical certifications to prove/validate learning.
+* Complete at least *2 technical certifications* to prove/validate learning.
 
 **Reading:**
 Read at least 4-5 books this year. I know this is small target, but reading is not limited to just books. However, reading tech books is almost over due to how fast tech is changing these days. Hence just limiting to following categories:
