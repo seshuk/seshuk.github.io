@@ -13,13 +13,13 @@ Its the beginning of a new year. Time for planning, thinking through and putting
 _###Here goes the list:###_
 
 ##Health:##
-More active, 
+In general be more active.  
  - 10k or more steps 
  - 2018 KMs cycle/running.
  - Yoga atleast 2 times a week.
 
 ##Craft:## 
-* Write blogs posts regularly
+* Write blogs posts regularly - At least 25 posts.
  - Post status/progress every quarter
 
 * Side projects
