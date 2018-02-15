@@ -19,7 +19,7 @@ Stats from last year:
 
 ![2017_Activity_Rep.png]({{site.baseurl}}/img/2017_Activity_Rep.png)
 
- - *10k or more steps:* Track 10k steps every day of the year on an average.  Past years average was 9.7k per day.
+ - *8k or more steps:* Track 8k steps every day of the year on an average.  Past years average was 9.7k per day. *Update:- The sesamoid bone injury is making it hard to achive 10k goal. And I don't know how long it would take to heal. To be realistic I'm reducing to 8k steps.*
  - *2018 KMs cycle/running:* This one could be tough. But will force me to ride more often. This target would be _almost 3x times_ from the past year.
  - *Yoga at least 2 times a week:* Make it at least 100 yoga sessions this year which is, 4x times more than last year. 
 
