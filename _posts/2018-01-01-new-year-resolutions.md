@@ -48,6 +48,6 @@ _I'm excited to start this year than ever....._
 
 # Happy New Year - 2018 #
 
-_P. S_: An interesting video on choosing to change life then just one year. I'd say let’s start with this year and improve every year.
+_P. S_: An interesting video on choosing to change life than just one year. I'd say let’s start with this year and improve every year.
 
 {% include youtubePlayer.html id=page.youtubeId %}
