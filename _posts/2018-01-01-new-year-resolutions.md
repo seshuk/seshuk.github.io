@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "My new year resolutions - 2018"
