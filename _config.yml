@@ -46,7 +46,7 @@ author:
   name: Seshu Koorella
   email: "seshusviews@outlook.com"
   facebook: seshuk  # eg. daattali
-  #github: yourname    # eg. daattali
+  github: seshuk    # eg. daattali
   twitter: seshuk   # eg. daattali
   linkedin: https://au.linkedin.com/in/seshukv  # eg. "pub/dean-attali/8/946/143"
   #stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -58,7 +58,7 @@ footer-links-active:
   email: true
   twitter: true
   github: false
-  linkedin: false
+  linkedin: true
   stackoverflow: false
 
 # How to display the link to the website in the footer
