@@ -19,7 +19,7 @@ In this book, Charles Duhigg writes that the habits are responsible for most of 
 
 The habit loop which was identified by MIT researchers is a loop that consists of three parts: a cue, a routine and a reward as below:
 
-![habit_img1.png]({{site.baseurl}}/img/habit_img1.png)
+![habit_img1.jpg]({{site.baseurl}}/img/habit_img1.jpg)
 
 As a first step, we need to identify these components of any habit that we want to improve and change and then work on them.
 
