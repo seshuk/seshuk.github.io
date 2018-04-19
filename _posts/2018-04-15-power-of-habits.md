@@ -31,4 +31,4 @@ To me some of the case studies used by corporations to influence consumer behavi
 
 I would say this is recommended for anyone who is interested in changing their habits for good. 
 
-Have you read this? Comment pls.
+Have you read this? Please comment pls below:
