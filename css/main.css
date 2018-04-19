@@ -752,3 +752,9 @@ table tr td :last-child {
 .categorie-tag a:link, .archive-group a:link{
   text-decoration: none;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
