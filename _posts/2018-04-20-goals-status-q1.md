@@ -42,7 +42,7 @@ There have been some developments in my health after the new year resolution. My
 - ***Goal 2:*** _Side projects:_
   -- *At least 2* in Mobile/Azure/Machine Learning/AI/IoT. This should keep the learning ongoing. - No progress! :smirk:
 
-- ***Goal 3:*** _Complete at least *2 technical certifications_ to prove/validate learning: Study in progress.
+- ***Goal 3:*** _Complete at least 2 technical certifications_ to prove/validate learning: Study in progress.
 
 ### Reading:
 
