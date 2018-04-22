@@ -13,10 +13,10 @@ tags:
 Wow. Time files. The first quarter is gone already. Here is the small status of how I'm doing with the goals:
 
 
-##Stats for Q1:##
+## Stats for Q1:
 
 
-###Health:###
+### Health:
 
 There have been some developments in my health after the new year resolution. My sesamoid bone injury has not got any better than I anticipated and as result, I had to reduce the total step goal to more realistic 8k steps per day.
 
@@ -33,7 +33,7 @@ There have been some developments in my health after the new year resolution. My
 
  
 
-###Craft:### 
+### Craft: 
 
 
 - ***Goal 1:*** _Write blogs posts regularly_ 
@@ -44,7 +44,7 @@ There have been some developments in my health after the new year resolution. My
 
 - ***Goal 3:*** _Complete at least *2 technical certifications_ to prove/validate learning: Study in progress.
 
-###Reading:###
+### Reading:
 
 
 - ***Goal 1:*** _Read (listen) at least 4-5 books this year:_
@@ -53,7 +53,7 @@ There have been some developments in my health after the new year resolution. My
   - 1 Personal finance - No progress.
   - 1 Sci-Fi/thriller - No progress. The book I'm planning to is The Mahabharata Secret.
 
-###Personal:###
+### Personal:
 
 - *Tick off at least 1 item in personal bucket list:*
  Happy to say, I've made great progress in this category. Somethings I might not share on this platform, but 2 items on the list very much ticked off.
