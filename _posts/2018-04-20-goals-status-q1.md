@@ -37,7 +37,7 @@ There have been some developments in my health after the new year resolution. My
 
 
 - ***Goal 1:*** _Write blogs posts regularly_ 
--- At least *25 posts:* To achieve this I should have come up with at least 2 a month. I have done only 1 a month. I have the ideas that need to be written up. Hopefully will pick up this quarter.
+-- At least *25 posts:* To achieve this I should have come up with at least 2 a month. I have done only 1 a month. I have the ideas that need to be written up. Hopefully will pick up this quarter to meet or beat this goal.
 
 - ***Goal 2:*** _Side projects:_
   -- *At least 2* in Mobile/Azure/Machine Learning/AI/IoT. This should keep the learning ongoing. - No progress! :smirk:
