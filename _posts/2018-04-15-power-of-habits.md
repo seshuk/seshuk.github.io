@@ -29,6 +29,6 @@ As an example, if we have a habit of eating some junk food every day at 3 pm. We
 
 To me some of the case studies used by corporations to influence consumer behaviour by making something a habit was fascinating and sometimes eye-opening for example the success of Ad industry to change people behaviour to brush their teeth every day and what Target and some casinos did to track their employee habits etc was very interesting to read.
 
-I would say this is recommended for anyone who is interested in changing their habits for good. 
+_I would recommend this for anyone who is interested in changing their habits for good._ 
 
-Have you read this? Please comment pls below:
+Have you read this? Please comment below:
