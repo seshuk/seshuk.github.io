@@ -27,7 +27,7 @@ There have been some developments in my health after the new year resolution. My
  - ***Goal 2:*** *2018 KMs :bicyclist: / :runner: :* It went really well in Jan to some extent in Feb. However, dropped quite low in March and April was worst. Time to make amends and I have a plan in place. I've set up an indoor trainer and hopefully, I should be able to do better in next quarter.
 
 
-![q1_progress_2.jpg]({{site.baseurl}}/img/q1_progress_2.jpg){: .center-image }
+![Progress of Cycling/Running goal Goal2]({{site.baseurl}}/img/q1_progress_2.jpg){: .center-image }
 
 - ***Goal 3:*** *Yoga at least 2 times a week:* I'm terribly behind on this :snail: . So far only 4 sessions done. This something that needs to be picked up seriously. 
 
