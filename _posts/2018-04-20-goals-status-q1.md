@@ -22,7 +22,7 @@ There have been some developments in my health after the new year resolution. My
 
  - ***Goal 1:*** *8k or more steps:* On track for this goal. In fact more than expected. :+1: :+1:
 
-![q1_progress_1.jpg]({{site.baseurl}}/img/q1_progress_1.jpg){: .center-image }
+![Progress of the steps goal Goal1]({{site.baseurl}}/img/q1_progress_1.jpg){: .center-image }
 
  - ***Goal 2:*** *2018 KMs :bicyclist: / :runner: :* It went really well in Jan to some extent in Feb. However, dropped quite low in March and April was worst. Time to make amends and I have a plan in place. I've set up an indoor trainer and hopefully, I should be able to do better in next quarter.
 
