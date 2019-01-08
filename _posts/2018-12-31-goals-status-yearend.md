@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Goals - 2018"
-subtitle: "How did I do with my new year resolutions this year"
+subtitle: "How I did with my new year resolutions this year"
 categories: ['General']
 bigimg: /img/2018_goals_bkgnd.jpg
 tags:
