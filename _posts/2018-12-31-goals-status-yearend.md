@@ -29,7 +29,7 @@ The health goals I put for myself to make exercise and being active more a habit
 
 - ***Goal 3:*** *Yoga at least 2 times a week:* This was exactly opposite to cycling progress, did not start very well but ended very close. While the 99 workouts above consist mostly of Yoga, not all of them. About 70-75% is Yoga so it is 3 times more than last year and I'm happy to be able to do other workouts including (Badminton, Resistance training, Tabata etc). :+1: :+1:
 
- 
+The biggest take away is exercise is a habit now. I don't need reminders or motivation nowadays. I just get up and do it. 
 
 ### Craft: 
 
@@ -61,6 +61,8 @@ Check them out on [GoodReads](https://www.goodreads.com/user_challenges/11838589
 - *Tick off at least 1 item in personal bucket list:*
  This is was biggest... Ticked off two from personal bucket list. There were two long pending items in my list, I wasn't able to do for more than 2 years that were ticked off... 2018 was worth it. Great year. :+1: :+1: :+1:
 
- I'd like to thank all my friends and well wishers.
+If I average out, I can say about 75% of what I aimed for was achieved.
+
+I'd like to thank all my friends and well wishers.
 
  Happy 2019!!!
