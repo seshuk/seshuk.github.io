@@ -59,7 +59,7 @@ Check them out on [GoodReads](https://www.goodreads.com/user_challenges/11838589
 ### Personal:
 
 - *Tick off at least 1 item in personal bucket list:*
- This is was biggest... Ticked off two from personal bucket list. There were two long pending items in my list, I wasn't able to do for more than 2 years that were ticked off... 2018 was worth it. Great year. :+1: :+1: :+1:
+ This is was biggest... Ticked off two items from personal bucket list. There were two pending items in my list, I wasn't able to do for more than 2 years that were ticked off... 2018 was worth it. Great year. :+1: :+1: :+1:
 
 If I average out the percentage completed of each goal, I can say about 75% of what I aimed for was achieved.
 
