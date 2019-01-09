@@ -35,7 +35,7 @@ The biggest take away is exercise is a habit now. I don't need reminders or moti
 
 I could not progress much on this area at all. Did not meet any of the goals. Did not blog much, most of what I wanted to write got stuck in drafts. I will improve on this in 2019. Big focus. While I did work on a lot of interesting stuff @work, some PoCs as well, but they can't be treated as side projects. Hope to do better next year.
 
-- ***Goal 1:*** _Write blogs posts regularly_ :-1: :-1:
+- ***Goal 1:*** _Write blogs posts regularly_: Very irregular. Only few posts. :-1: :-1:
 
 - ***Goal 2:*** _Side projects:_
   -- *At least 2* in Mobile/Azure/Machine Learning/AI/IoT. This should keep the learning ongoing. - No progress! :smirk: :-1:
