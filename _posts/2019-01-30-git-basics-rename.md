@@ -12,12 +12,12 @@ Following git commands can be used to rename local and remote branches.
 
 
 **1. Rename local branch**
- - If you already on the branch that you would like to rename
+If you already on the branch that you would like to rename
 
  ```bash
  git branch -m new-name
   ```
-  If you are on someother branch
+If you are on some other branch
   ```bash
   git branch -m old-name new-name
   ```
@@ -31,11 +31,11 @@ git push origin :old-name new-name
 
 **3. Reset the upstream branch.**
 
- If you have not switched to new branch then switch to the branch and then use the following command
+If you have not switched to new branch then switch to the branch and then use the following command
 
 ```bash
 git push origin -u new-name
 ```
 
 
-git push (reference)[https://git-scm.com/docs/git-push]
+git push [reference](https://git-scm.com/docs/git-push)
