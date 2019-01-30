@@ -6,7 +6,7 @@ tags:
  - Git
 ---
 
-Sometimes we name a git branch with something temporary and would like to change to more meaning full name etc, it does not happen every day by happens time to time.
+Sometimes we name a git branch with something temporary and would like to change to more meaningful name etc, it does not happen every day but happens time to time.
 
 Following git commands can be used to rename local and remote branches.
 
