@@ -10,6 +10,7 @@ Sometimes we name a git branch with something temporary and would like to change
 
 Following git commands can be used to rename local and remote branches.
 
+Make sure the branch is clean, not changes or pending commits/pushes etc.
 
 **1. Rename local branch**
 If you already on the branch that you would like to rename
