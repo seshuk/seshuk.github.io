@@ -23,7 +23,7 @@ description: "Seshu's views is a personal blog where I write my thoughts, learni
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://about.me/seshukoorella"
+  About Me: "About"
   Resume: "resume"
   Flickr: "Flickr"
   Activities: "https://gyrosco.pe/seshuk/zero/"
