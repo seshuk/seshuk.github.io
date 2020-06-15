@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Executing processes in Linux via C#"
+title: "Executing processes in Linux/macOS via C#"
 subtitle: "Useful for integrating legacy app in .NET Core"
 categories: ["Programming"]
 tags:
   - .NET Core
   - C#
   - linux
+  - macOS
 ---
 
 .NET Core is a great way to target multiple platforms using C#. However, there could be situations where one needs to execute a process or integrate with 3rd party app or even perform some kind of batch processing with native apps. While it is similar to how it is done using .NET on Windows, there are few details to keep in mind.
