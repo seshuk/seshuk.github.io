@@ -58,6 +58,8 @@ var process = new Process()
 
         try{
             process.Start();
+            process.BeginOutputReadLine();
+            process.BeginErrorReadLine();
             process.WaitForExit();
         }
         catch(Exception ex)
