@@ -13,7 +13,7 @@ Singleton object is a design pattern solves the need as stated below in [GOF des
 
 > 'Ensure a class has one instance, and provide a global point of access to it.'
 
-I like many also feel that this an anti-pattern. However there are situations where we might need to design a singleton. Something like below:
+Like many other, I too feel that this an anti-pattern. However there are situations where we might need to design a singleton. Something like below:
 
 ```csharp
 public class Logger
