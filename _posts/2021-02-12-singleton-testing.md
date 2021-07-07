@@ -22,7 +22,7 @@ public class Logger
         private static Logger _instance;
         private static Object _mutex = new Object();
       
-        private TelemetryRecorder(ISomeDependency dep)
+        private Logger(ISomeDependency dep)
         {
            // ...
         }
@@ -33,7 +33,7 @@ public class Logger
                 throw new InvalidOperationException("Instance already created");
             lock (_mutex)
             {
-                _instance = new Logger(info);
+                _instance = new Logger(dep);
             }
             return _instance;
         }
