@@ -14,16 +14,13 @@ Windows Installer custom actions are useful when the developers of an installati
 
 The `CustomAction` element with its various combination of elements provides this option for developers in Wix Toolset.
 
-Documentation for this element can be found here.
-
-[https://wixtoolset.org/documentation/manual/v3/xsd/wix/customaction.html](https://wixtoolset.org/documentation/manual/v3/xsd/wix/customaction.html)
+Documentation for this element can be found [here](https://wixtoolset.org/documentation/manual/v3/xsd/wix/customaction.html)
 
 Custom action example:
 
 ```xml
  <Fragment>
-    <CustomAction Id='FooAction' BinaryKey='FooBinary' DllEntry='FooEntryPoint'     Execute='immediate' Return='check' impersonate='no'/>
-
+    <CustomAction Id='FooAction' BinaryKey='FooBinary' DllEntry='FooEntryPoint' Execute='immediate' Return='check' impersonate='no'/>
     <Binary Id='FooBinary' SourceFile='foo.dll'/>
  </Fragment>
 ```
