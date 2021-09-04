@@ -8,6 +8,7 @@ tags:
   - Wix
   - Windows Installer
   - C#
+  - Elevated privileges
 ---
 
 Windows Installer custom actions are useful when the developers of an installation package needs implement scenarios that are not provided by default. For example validating user input, encrypting user input or showing custom progress information (time remaining) on the installation UI.
