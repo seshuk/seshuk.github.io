@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shutdown Ec2 in ASG instead of terminate"
+title: "Shutdown EC2 instances in ASG instead of terminate"
 subtitle: "Cloud Cost optimization"
 categories: ["Cost Optimisation", "AWS", "Lambda"]
 tags:
