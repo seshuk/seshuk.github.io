@@ -11,20 +11,20 @@ baseurl: ""
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
+# Of course don't forget to change the username and project name to YOUR username and project
 
 # Name of website
 title: "Seshu's Views"
 
 # Short description of your site
-description: "Seshu's views is a personal blog where I write my thoughts, learnings on various topics, primarily software development."
+description: "Seshu's Views is a personal blog where I write my thoughts, and learnings on various topics, primarily software development."
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "About"
-  Resume: "resume"
+  Resume: "https://myawsresume.seshuk.com/"
   Flickr: "Flickr"
   Activities: "https://gyrosco.pe/seshuk/zero/"
   #nav-search: "Search"
